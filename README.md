@@ -3,7 +3,8 @@
 This is a front-end clone of the Netflix homepage built using HTML and CSS.
 
 ## 📸 Screenshot
-![Preview](images/screenshot.jpg) <!-- Add your screenshot path here -->
+![Preview](images/e2.png) <!-- Add your screenshot path here -->
+![Preview](images/e1.png) <!-- Add your screenshot path here -->
 
 ## 🚀 Features
 - Netflix-style tile layout
